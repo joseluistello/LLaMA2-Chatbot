@@ -25,7 +25,7 @@ logo1 = 'https://storage.googleapis.com/llama2_release/a16z_logo.png'
 logo2 = 'https://storage.googleapis.com/llama2_release/replicate_logo_white.png'
 
 ###Initial UI configuration:###
-st.set_page_config(page_title="LLaMA2 Chatbot by a16z-infra", page_icon=logo1, layout="wide")
+st.set_page_config(page_title="LLaMA2 Chatbot by jltello & a16z-infra", page_icon=logo1, layout="wide")
 
 # reduce font sizes for input text boxes
 custom_css = """

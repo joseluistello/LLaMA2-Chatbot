@@ -36,7 +36,7 @@ custom_css = """
 """
 st.markdown(custom_css, unsafe_allow_html=True)
 
-
+st.sidebar.header("Joseluistello.com")
 st.sidebar.header("LLaMA2 Chatbot")#Left sidebar menu
 
 #Set config for a cleaner menu, footer & background:
